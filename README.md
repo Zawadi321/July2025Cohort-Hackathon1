@@ -15,7 +15,7 @@ This website serves as a digital resume and creative space where I share:
 - *Git & GitHub* — Version control and hosting
 
 👩‍💻Preview
-- To view the site locally, clone the following repo and open index.html in your browser:
+- To view the site locally, clone the following repo and open index.html in your browser: https://github.com/Zawadi321/July2025Cohort-Hackathon1
 
 📍Features
 
